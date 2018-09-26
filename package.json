@@ -12,3 +12,10 @@
   "author": "",
   "license": "ISC"
 }
+
+"scripts": {
+    "watch": "slate watch",
+    "start": "slate start",
+    "deploy": "slate deploy",
+    "build": "slate build"
+}
